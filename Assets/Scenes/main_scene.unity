@@ -458,7 +458,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1646134038}
   controller: {fileID: 0}
-  moveSpeed: 10
+  moveSpeed: 24
 --- !u!143 &1979719295
 CharacterController:
   m_ObjectHideFlags: 0
